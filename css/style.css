@@ -1,0 +1,194 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* Start Header section */
+
+.heading {
+    border-bottom: 1px solid #433f3f;
+}
+
+.header {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    padding: 15px 0;
+}
+
+.logo {
+    width: 10%;
+    float: left;
+}
+
+.logo img {
+    cursor: pointer;
+}
+
+.nav {
+    width: 35%;
+    float: right;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav ul li {
+    float: left;
+    margin-left: 20px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+/* End Header section */
+
+/* Start Content section */
+
+.content {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.content h1 {}
+
+.content h2 {
+    color: #068AFC;
+    margin: 10px 0;
+}
+
+.content p {
+    margin-bottom: 10px;
+}
+
+.content img {
+    height: 350px;
+    cursor: pointer;
+}
+
+/* End Content section */
+
+/* Start Successfully area section */
+
+.successfully {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    text-align: right;
+}
+
+.left-successfully {
+    width: 48%;
+    float: left;
+}
+
+.left-successfully h1 {
+    color: #D8707A;
+    font-size: 50px;
+}
+
+.left-successfully p {}
+
+.right-successfully {
+    width: 48%;
+    float: right;
+}
+
+.right-successfully h1 {
+    font-size: 50px;
+    color: #3E3A57;
+}
+
+/* End Successfully area section */
+
+/* Start Creativity section */
+
+.creativity {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.left-creativity {
+    width: 26%;
+    float: left;
+    background-color: #FEEBED;
+    padding: 50px 30px;
+}
+
+.left-creativity img {
+    cursor: pointer;
+}
+
+.left-creativity h1 {
+    text-align: left;
+}
+
+.left-creativity p {
+    text-align: left;
+}
+
+.middle-creativity {
+    width: 26%;
+    float: left;
+    margin-left: 5%;
+    background-color: #E9FAF4;
+    padding: 50px 30px;
+}
+
+.middle-creativity img {
+    cursor: pointer;
+}
+
+.middle-creativity h1 {
+    text-align: left;
+}
+
+.middle-creativity p {
+    text-align: left;
+}
+
+.right-creativity {
+    width: 25%;
+    float: right;
+    background-color: #FFF8E8;
+    padding: 50px 30px;
+}
+
+.right-creativity img {
+    cursor: pointer;
+}
+
+.right-creativity h1 {
+    text-align: left;
+}
+
+.right-creativity p {
+    text-align: left;
+}
+
+/* End Creativity section */
+
+/* Start Footer section */
+
+.footer {
+    text-align: center;
+    background-color: #068AFC;
+    padding: 35px;
+}
+
+.footer p {
+    color: #E4FFFF;
+}
+
+.footer p span {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* End Footer section */
